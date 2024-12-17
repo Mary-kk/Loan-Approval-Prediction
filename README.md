@@ -62,6 +62,10 @@ Random Forest: Achieved the best performance with an accuracy of 98%.
 
 The final model provides insights into the factors influencing loan approval decisions and can be used to automate the initial screening process for loan applications.
 
+## Summary 
+
+This project focuses on predicting loan approval by analyzing various factors such as an applicant’s financial history, income, credit score, employment status, and other relevant attributes. Using historical loan data and machine learning algorithms, a predictive model has been developed to assess the likelihood of loan approval for new applicants.
+
 ## Future Work
 
 Implement advanced models like XGBoost or Neural Networks for enhanced accuracy.
