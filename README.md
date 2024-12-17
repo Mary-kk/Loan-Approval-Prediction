@@ -3,6 +3,11 @@
 ## Overview
 This project demonstrates a machine learning pipeline to predict loan approval decisions based on applicant and loan details. The goal is to assist financial institutions in streamlining the loan application process and enhancing decision-making efficiency.
 
+The dataset used for this project can be accessed directly from the following link:
+
+https://raw.githubusercontent.com/no37no37/Loan_Approval_Prediction_ML_Model/refs/heads/main/loan_approval_dataset.csv
+
+
 ## Dataset
 The dataset contains 4,269 entries and 13 features, including applicant demographics, financial information, and loan attributes. The target variable is loan_status, indicating whether a loan was "Approved" or "Rejected."
 
