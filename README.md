@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction
 
 ## Overview
-This project demonstrates a machine learning pipeline to predict loan approval decisions based on applicant and loan details. The goal is to assist financial institutions in streamlining the loan application process and enhancing decision-making efficiency.
+This project showcases a machine learning pipeline to predict loan approval decisions based on applicant and loan details. The goal is to assist financial institutions in streamlining the loan application process and enhancing decision-making efficiency.
 
 The dataset used for this project can be accessed directly from the following link:
 
